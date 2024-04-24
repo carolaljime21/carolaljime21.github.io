@@ -2,7 +2,7 @@ aç<h2 align="left">Hi 👋! My name is Carolina</h2>
 
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/3d/cc/d2/3dccd26f9fc9fed7ba5b41fe73255553.gif"  />
 
 
 
